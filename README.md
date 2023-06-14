@@ -5,6 +5,6 @@
 - 🤔 I’m looking for help with meeting other developers
 - 💬 Ask me about my dream car
 - 📫 How to reach me: 
-     - LinkedIn: linkedin.com/in/alex-trotman-7173b1245
+     - LinkedIn: https://www.linkedin.com/in/alex-trotman-7173b1245
      - Email: alextrotman04@gmail.com
 - ⚡ Fun fact: I have a great work ethic
