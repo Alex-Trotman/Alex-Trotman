@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on applying to Flatiron school
+- 🔭 I’m currently a student at Flatiron school
 - 🌱 I’m currently learning Frontend Development
 - 👯 I’m looking to collaborate on just about anything
 - 🤔 I’m looking for help with meeting other developers
