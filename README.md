@@ -18,11 +18,11 @@ I'm a full-stack web developer currently studying at Flatiron as a Software Engi
       <img title="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="30px" height="30px"></img>    
     </td>
   <td>
-</td>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmD38KsMgEwahtWc_Nfs5ZVktP9dBc36MUZA&s" width="30px" height="30px"></img>
+  </td>
 <td>
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" width="30px" height="30px"></img>
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="30px" height="30px"></img>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmD38KsMgEwahtWc_Nfs5ZVktP9dBc36MUZA&s" width="30px" height="30px"></img>
 </td>
 </tr>
 </tbody>
