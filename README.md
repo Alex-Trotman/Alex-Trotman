@@ -44,9 +44,9 @@ I'm a full-stack web developer currently studying at Flatiron as a Software Engi
   </tbody>
 </table>
 
-- 🔭 I’m currently a student at Flatiron school
-- 🌱 I’m currently learning Backend Development
-- 👯 I’m looking to collaborate on just about anything
+- 🔭 I’m a Flatiron school graduate
+- 🌱 I’m currently learning Full Stack Development
+- 👯 I’m currently working as a Technical Support Engineer at Web Shop Manager
 - 🤔 I’m looking for help with meeting other developers
 - 📫 How to reach me: 
      - LinkedIn: https://www.linkedin.com/in/alex-trotman-7173b1245
