@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Alex
 
-I'm a full-stack web developer currently studying at Flatiron as a Software Engineering student.
-
+I'm currently working as a Technical Support Engineer for an automotive e-commerce company. I'm experienced in Full stack development (JavaScript, React, Python, and Flask)
+ from attending Flatiron School (Full stack software engineering bootcamp)
 <table>
   <thead>
     <tr>
