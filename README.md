@@ -8,6 +8,7 @@ I'm currently working as a Technical Support Engineer for an automotive e-commer
       <th>Frontend</th>
       <th>Backend</th>
       <th>Languages</th>
+      <th>Full Stack</th>
     </tr>
   </thead>
 <tbody>
@@ -15,15 +16,20 @@ I'm currently working as a Technical Support Engineer for an automotive e-commer
     <td>
       <img title="HTML5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="30px" height="30px"></img> 
       <img title="CSS3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="20px" height="30px"></img> 
-      <img title="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="30px" height="30px"></img>    
+      <img title="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="30px" height="30px"></img>
+      <img title="Tailwind" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="30px" height="30px"></img>
     </td>
   <td>
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmD38KsMgEwahtWc_Nfs5ZVktP9dBc36MUZA&s" width="30px" height="30px"></img>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="30px" height="30px"></img>
   </td>
 <td>
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" width="30px" height="30px"></img>
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="30px" height="30px"></img>
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="30px" height="30px"></img>
+</td>
+ <td>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg" width="30px" height="30px"></img>
 </td>
 </tr>
 </tbody>
