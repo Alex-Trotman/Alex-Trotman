@@ -22,6 +22,7 @@ I'm currently working as a Technical Support Engineer for an automotive e-commer
   </td>
 <td>
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" width="30px" height="30px"></img>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="30px" height="30px"></img>
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="30px" height="30px"></img>
 </td>
 </tr>
